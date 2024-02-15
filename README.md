@@ -1,3 +1,4 @@
+![image](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/ddb5d0fe-b414-4d80-953e-dfcb0c3d08f7)
 
 
 
@@ -9,9 +10,9 @@
     * [Labs](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#labs)
         * [Lab 00 - Setting up a VM environment](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-00---setting-up-a-vm-environment)
         * [Lab 01 - Network Management](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-01---network-management)
-        * Lab 02 - Docker
+        * [Lab 02 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-02---docker)
     * [Solo Projects](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#solo-projects)
-        * Solo Project 01 - Docker
+        * [Solo Project 01 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-solo-project-01---owncloud-docker-project)
     * [Group Projects](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#group-projects)
         * [Group Project 01 - OpenNMS](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-group-project-01---opennms)
 
@@ -57,23 +58,28 @@ This course focuses on the tasks and issues involved in the administration of di
 > * Set up and configure `NMON01-isaiah`.
 > * Familiarize myself with SNMP services.
 
-### • Lab 02 - Docker
-> (Overview)
+### [• Lab 02 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Lab-03-%E2%80%90-Docker)
+> The goal of this lab was to set up and configure our newly created DOCKER01-isaiah VM, and to install and familiarize ourselves with Docker.
 >
 > Objectives included in this lab:
-> * Object 1
+> * Set up and configure the newly created DOCKER01-isaiah VM
+> * Install and configure Docker
+> * Familiarize myself with Docker with the hello-world Docker application
+> * Set up a simple networking Python Docker application
+> * Set up Dockerized Wordpress
 
 ## Solo Projects
 
-### • Solo Project 01 - Docker
-> (Overview)
+### [• Solo Project 01 - OwnCloud Docker Project](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Solo-Project-01-%E2%80%90-OwnCloud-Docker-Project)
+> For my project I decided to install a Dockerized version of ownCloud, a free and open-source software for sharing and syncing files. In my project I needed to customize the trusted domains to allow for computers other than `DOCKER01-isaiah` to be able to access ownCloud. I also adjusted the ownCloud administrator username and password.
 >
-> Objectives included in this lab:
-> * Object 1
+> Objectives included in this project:
+> * Install  ownCloud through Docker on `DOCKER01-isaiah`
+> * Configure ownCloud to adjust default credentials, and trust other domains
 
 ## Group Projects
 
-### • [Group Project 01 - OpenNMS](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Group-Project-01-%E2%80%90-OpenNMS/)
+### [• Group Project 01 - OpenNMS](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Group-Project-01-%E2%80%90-OpenNMS/)
 > In this project, we introduced OpenNMS into our VM environment, and configured several network management traps.
 > 
 > Objectives included in this project:
