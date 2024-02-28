@@ -20,7 +20,7 @@ sudo useradd -m -d /home/$1 -s /bin/bash $1
 sudo mkdir /home/$1/.ssh
 
 # Copy the public key out of the /home/isaiah-adm/.ssh/ directory.
-sudo cp /home/isaiah-adm/.ssh/id_rsa.pub /home/$1/.ssh/authorized_keys
+sudo cp /home/isaiah-adm/SYS-265-02-SYS-Admin-II/SYS265/linux/public-keys/id_rsa.pub /home/$1/.ssh/authorized_keys
 
 # Adjust the permissions of the .ssh key so that the its owner read/write/execute only
 sudo chmod 700 /home/$1/.shh
