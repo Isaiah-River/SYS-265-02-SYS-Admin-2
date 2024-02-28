@@ -12,7 +12,7 @@ echo "  2. Adds a public key from a local repo."
 echo "  3. Removes the ability to SSH into root."
 echo " "
 echo "What is the name of the user you would like to add:"
-read 1
+read $1
 
 # Create a new SSH user using the parameter $1
 sudo useradd -m -d /home/$1 -s /bin/bash $1
