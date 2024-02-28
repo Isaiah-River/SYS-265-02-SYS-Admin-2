@@ -23,7 +23,7 @@ sudo mkdir /home/$1/.ssh
 sudo cp /home/isaiah-adm/SYS-265-02-SYS-Admin-II/SYS265/linux/public-keys/id_rsa.pub /home/$1/.ssh/authorized_keys
 
 # Adjust the permissions of the .ssh key so that the its owner read/write/execute only
-sudo chmod 700 /home/$1/.shh
+sudo chmod 700 /home/$1/.ssh
 sudo chmod 600 /home/$1/.ssh/authorized_keys
 
 # Adjust the owner to the newly created user.
