@@ -11,8 +11,7 @@ echo "  1. Creates a new ssh user using a parameter from the user."
 echo "  2. Adds a public key from a local repo."
 echo "  3. Removes the ability to SSH into root."
 echo " "
-echo "What is the name of the user you would like to add:"
-read $1
+echo "Creating a user with the name $1"
 
 # Create a new SSH user using the parameter $1
 sudo useradd -m -d /home/$1 -s /bin/bash $1
