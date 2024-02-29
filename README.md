@@ -1,6 +1,10 @@
-![image](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/ddb5d0fe-b414-4d80-953e-dfcb0c3d08f7)
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/0e9d4b07-3b38-4c67-a1b8-2d53bf293ccc">
+  <source media="(prefers-color-scheme: light)" srcset="
+https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/86f51491-c12b-4164-89fb-c6a1ff4aa91f">
+  <img alt="Dark Theme." src="
+https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/86f51491-c12b-4164-89fb-c6a1ff4aa91f">
+</picture>
 
 # Navigation
 * [Course Overview](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#course-overview)
@@ -101,3 +105,8 @@ This course focuses on the tasks and issues involved in the administration of di
 > * Set up and configure OpenNMS
 > * Configure OpenNMS through the web GUI
 > * Set up alarms for when two hosts go down, and for when disk space usage is beyond a certain threshold
+
+<!--Back to Top button-->
+<p align="center";>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Back%20to%20Top%20-%20Back%20to%20Top?style=flat&color=%23555"></a>
+</p>
