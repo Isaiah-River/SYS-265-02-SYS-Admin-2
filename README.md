@@ -105,8 +105,3 @@ This course focuses on the tasks and issues involved in the administration of di
 > * Set up and configure OpenNMS
 > * Configure OpenNMS through the web GUI
 > * Set up alarms for when two hosts go down, and for when disk space usage is beyond a certain threshold
-
-<!--Back to Top button-->
-<p align="center";>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Back%20to%20Top%20-%20Back%20to%20Top?style=flat&color=%23555"></a>
-</p>
