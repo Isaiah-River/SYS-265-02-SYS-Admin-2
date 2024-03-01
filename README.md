@@ -1,3 +1,5 @@
+<h1 align="center";><img src="https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/86f51491-c12b-4164-89fb-c6a1ff4aa91f"></h1>
+
 # Navigation
 * [Course Overview](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#course-overview)
     * [Course Description](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#course-description)
