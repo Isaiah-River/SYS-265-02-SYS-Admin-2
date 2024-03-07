@@ -1,6 +1,4 @@
-![image](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/ddb5d0fe-b414-4d80-953e-dfcb0c3d08f7)
-
-
+<h1 align="center";><img src="https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/86f51491-c12b-4164-89fb-c6a1ff4aa91f"></h1>
 
 # Navigation
 * [Course Overview](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#course-overview)
@@ -11,6 +9,7 @@
         * [Lab 00 - Setting up a VM environment](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-00---setting-up-a-vm-environment)
         * [Lab 01 - Network Management](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-01---network-management)
         * [Lab 02 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-02---docker)
+        * [Lab 03 ‐ Git & Linux SSH Script](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-03--git--linux-ssh-script)
     * [Solo Projects](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#solo-projects)
         * [Solo Project 01 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-solo-project-01---owncloud-docker-project)
     * [Group Projects](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#group-projects)
@@ -58,15 +57,28 @@ This course focuses on the tasks and issues involved in the administration of di
 > * Set up and configure `NMON01-isaiah`.
 > * Familiarize myself with SNMP services.
 
-### [• Lab 02 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Lab-03-%E2%80%90-Docker)
-> The goal of this lab was to set up and configure our newly created DOCKER01-isaiah VM, and to install and familiarize ourselves with Docker.
+### [• Lab 02 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Lab-02-%E2%80%90-Docker)
+> The goal of this lab was to set up and configure our newly created `DOCKER01-isaiah` VM, and to install and familiarize ourselves with Docker.
 >
 > Objectives included in this lab:
-> * Set up and configure the newly created DOCKER01-isaiah VM
+> * Set up and configure the newly created `DOCKER01-isaiah` VM
 > * Install and configure Docker
 > * Familiarize myself with Docker with the hello-world Docker application
 > * Set up a simple networking Python Docker application
 > * Set up Dockerized Wordpress
+
+### [• Lab 03 ‐ Git & Linux SSH Script](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Lab-03-%E2%80%90-Git-&-Linux-SSH-Script)
+> The goal of this lab was to familiarize ourselves with working with Git, and pushing and pulling from a GitHub repository. Towards the end of the lab, I set up a .sh script that was an introduction into streamlining automation across various systems.
+>
+> Objectives included in this lab:
+> * Install and configure Git on `DOCKER01-isaiah`, `WEB01-isaiah`, and `MGMT01-isaiah`.
+> * Familiarize ourselves with using Git.
+> * Creating and implementing SSH keys.
+> * Create a script that:
+>     * Creates a user with a provided parameter.
+>     * Creates a home directory, and copying a public SSH key into the home directories .ssh folder,
+>     * Changes the permissions of the .ssh folder and public key.
+>     * Disables the ability to login through the root account.
 
 ## Solo Projects
 
