@@ -1,0 +1,9 @@
+[apache]
+ansible01-isaiah
+[webmin]
+ansible02-isaiah
+[windows]
+mgmt01-isaiah
+wks01-isaiah
+[windows:vars]
+ansible_shell_type=powershell
