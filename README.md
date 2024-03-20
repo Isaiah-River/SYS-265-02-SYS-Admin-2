@@ -10,6 +10,8 @@
         * [Lab 01 - Network Management](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-01---network-management)
         * [Lab 02 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-02---docker)
         * [Lab 03 ‐ Git & Linux SSH Script](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-03--git--linux-ssh-script)
+        * [Lab 04 - Automation with Ansible](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-04--automation-with-ansible)
+        * [Lab 05 ‐ AD Group Policy & Software Deployment](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-05--ad-group-policy--software-deployment)
     * [Solo Projects](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#solo-projects)
         * [Solo Project 01 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-solo-project-01---owncloud-docker-project)
     * [Group Projects](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#group-projects)
@@ -80,6 +82,27 @@ This course focuses on the tasks and issues involved in the administration of di
 >     * Changes the permissions of the .ssh folder and public key.
 >     * Disables the ability to login through the root account.
 
+### [• Lab 04 ‐ Automation with Ansible](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Lab-04-%E2%80%90-Automation-with-Ansible)
+> In this lab I worked with Ansible to automate several tasks within my VM environment. Three new VMs were introduced to my VM environment, CONTROLLER-isaiah, ANSIBLE01-isaiah, and ANSIBLE02-isaiah. This lab involved setting these up, as well as working with Ansible, Ansible Galaxy, and Chocolatey to conduct various tasks within the VM enivronment.
+>
+> Objectives included in this lab:
+> * Configure CONTROLLER-isaiah, ANSIBLE01-isaiah, and ANSIBLE02-isaiah
+> * Set up RSA key-pairs among CONTROLLER-isaiah and the two Ansible VMs
+> * Familiarize myself with working with Ansible
+> * Creating an Ansible script
+> * Installing and connecting to Webmin
+> * Automating an Apache installation
+> * Automating with Ansible in a Windows environment
+
+### [• Lab 05 ‐ AD Group Policy & Software Deployment](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Lab-05-%E2%80%90-AD-Group-Policy-&-Software-Deployment)
+> In this short lab I worked to familiarize myself with how to deploy software through group policies.
+> 
+> Objectives included in this lab:
+> * Set up a share on MGMT01-isaiah to deploy software
+> * Editing OUs through PowerShell
+> * Set up a group policy for deploying software
+> * Use PowerShell to filter through event logs
+
 ## Solo Projects
 
 ### [• Solo Project 01 - OwnCloud Docker Project](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Solo-Project-01-%E2%80%90-OwnCloud-Docker-Project)
@@ -99,3 +122,8 @@ This course focuses on the tasks and issues involved in the administration of di
 > * Set up and configure OpenNMS
 > * Configure OpenNMS through the web GUI
 > * Set up alarms for when two hosts go down, and for when disk space usage is beyond a certain threshold
+
+<!--Back to Top button-->
+<p align="center";>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Back%20to%20Top%20-%20Back%20to%20Top?style=flat&color=%23555"></a>
+</p>
