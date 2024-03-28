@@ -17,6 +17,24 @@
     * [Group Projects](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#group-projects)
         * [Group Project 01 - OpenNMS](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-group-project-01---opennms)
 
+# Navigation
+* [Course Overview](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#course-overview)
+    * [Course Description](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#course-description)
+    * [Topic Coverage](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#topic-coverage)
+* [Course Progression](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#course-progression)
+    * [Labs](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#labs)
+        * [Lab 00 - Setting up a VM environment](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-00---setting-up-a-vm-environment)
+        * [Lab 01 - Network Management](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-01---network-management)
+        * [Lab 02 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-02---docker)
+        * [Lab 03 ‐ Git & Linux SSH Script](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-03--git--linux-ssh-script)
+        * [Lab 04 - Automation with Ansible](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-04--automation-with-ansible)
+        * [Lab 05 ‐ AD Group Policy & Software Deployment](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-05--ad-group-policy--software-deployment)
+        * [Lab 06 - Lab 06 ‐ File Services Lab: DFS](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-lab-06---file-services-lab-dfs)
+    * [Solo Projects](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#solo-projects)
+        * [Solo Project 01 - Docker](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-solo-project-01---owncloud-docker-project)
+    * [Group Projects](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#group-projects)
+        * [Group Project 01 - OpenNMS](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#-group-project-01---opennms)
+
 # Course Overview
 ### Course Description
 
@@ -102,6 +120,15 @@ This course focuses on the tasks and issues involved in the administration of di
 > * Editing OUs through PowerShell
 > * Set up a group policy for deploying software
 > * Use PowerShell to filter through event logs
+
+### [• Lab 06 - File Services Lab: DFS](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki/Lab-06-%E2%80%90-File-Services-Lab:-DFS)
+> This lab served as an introduction into Distributed File Systems, building off the some of the foundations of last weeks lab. Essentially we set up a share that is replicated between several computers. If one of the systems is down, the DFS share will still be up as another computer is still hosting the files.
+> 
+> * Setting up and configuring DFS01-isaiah & DFS02-isaiah
+> * Creating shares on each of these VMs
+> * Installing DFS management tools on MGMT01-isaiah
+> * Installing DFS replication on DFS01-isaiah & DFS02-isaiah
+> * Setting up and configuring DFS namespaces
 
 ## Solo Projects
 
