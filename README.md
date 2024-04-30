@@ -1,10 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/0e9d4b07-3b38-4c67-a1b8-2d53bf293ccc">
-  <source media="(prefers-color-scheme: light)" srcset="
-https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/86f51491-c12b-4164-89fb-c6a1ff4aa91f">
-  <img alt="Dark Theme." src="
-https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/86f51491-c12b-4164-89fb-c6a1ff4aa91f">
-</picture>
+  <img src="https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/86f51491-c12b-4164-89fb-c6a1ff4aa91f">
 
 # Navigation
 * [Course Overview](https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/wiki#course-overview)
